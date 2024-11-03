@@ -9,7 +9,7 @@
 
 * 展现了如，直方图(堆叠、带核密度线)、折线图(多变量、虚实线)、饼图、散点图、玫瑰图、地图、水球图、仪表盘、词云图、热力图等；
 
-* 某些图，在 github上无法渲染，可在 Jupyter环境下，查看完整版：https://nbviewer.org/github/luluzhangcpu/Data_Visualization/blob/main/data-visualization.ipynb
+* 某些图，在 github上无法渲染，可在 Jupyter环境下，查看完整版：
 
 * Kaggle地址见：https://www.kaggle.com/code/yougebuding/data-visualization
 
