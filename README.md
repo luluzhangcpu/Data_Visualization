@@ -11,4 +11,6 @@
 
 * 某些图，在 github上无法渲染，可在 Jupyter环境下，查看完整版：https://nbviewer.org/github/luluzhangcpu/Data_Visualization/blob/main/data-visualization.ipynb
 
+* Kaggle地址见：https://www.kaggle.com/code/yougebuding/data-visualization
+
 * 另，已上传相关字体，可免费用于个人项目，但若商用，需查询版权许可并获得相应授权；
